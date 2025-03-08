@@ -1,8 +1,27 @@
-# Analisi del consenso sul Bitcoin
+# Analisi del Sentiment di Bitcoin su Twitter
 
-Sei stato reclutato da un'azienda di ricerche di mercato per stimare il consenso delle persone verso il Bitcoin. Un team di data engineer ha estratto diversi milioni di tweet che parlano di Bitcoin, il tuo compito è quello di eseguire un'analisi del sentiment e creare un grafico che mostri come questo è variato giorno per giorno. Utilizza anche i dati per rispondere a domande interessanti, come:
-- i tweet negativi hanno avuto più likes rispetto a quelli positivi?
-- i tweet negativi hanno avuto più interazioni (risposte) rispetto a quelli positivi?
+## 📌 Descrizione Breve
 
-#### BONUS
-Verifica se la variazione del sentiment è associata ad una variazione del valore del Bitcoin, per svolgere questa task devi reperire in autonomia lo storico di BTC USD
+Questo progetto analizza il sentiment dei tweet riguardanti Bitcoin per comprendere meglio l'opinione pubblica sulle criptovalute. Utilizzando **Python**, **Pandas** e **TextBlob**, il sistema raccoglie e pre-processa i dati, classifica i tweet come positivi, negativi o neutri e analizza l'andamento giornaliero del sentiment.
+
+Obiettivi principali:
+- Identificare le tendenze del sentiment nel tempo.
+- Esaminare la relazione tra sentiment e valore di mercato del Bitcoin (BTC/USD).
+- Analizzare le interazioni degli utenti con tweet positivi e negativi.
+
+L'analisi ha mostrato come i tweet negativi ricevano più risposte rispetto a quelli positivi e ha evidenziato possibili correlazioni tra sentiment e fluttuazioni del prezzo del Bitcoin.
+
+---
+
+# Bitcoin Sentiment Analysis on Twitter
+
+## 📌 Short Description
+
+This project analyzes the sentiment of tweets about Bitcoin to better understand public opinion on cryptocurrencies. Using **Python**, **Pandas**, and **TextBlob**, the system collects and processes data, classifies tweets as positive, negative, or neutral, and tracks daily sentiment trends.
+
+Main goals:
+- Identify sentiment trends over time.
+- Examine the relationship between sentiment and Bitcoin market value (BTC/USD).
+- Analyze user engagement with positive and negative tweets.
+
+The analysis revealed that negative tweets tend to receive more replies than positive ones and highlighted possible correlations between sentiment and Bitcoin price fluctuations.
