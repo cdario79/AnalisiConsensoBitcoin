@@ -1,27 +1,41 @@
-# Analisi del Sentiment di Bitcoin su Twitter
+# Analisi del Sentiment sul Bitcoin nei Social Media  
 
-## 📌 Descrizione Breve
+## 📌 Descrizione del progetto  
 
-Questo progetto analizza il sentiment dei tweet riguardanti Bitcoin per comprendere meglio l'opinione pubblica sulle criptovalute. Utilizzando **Python**, **Pandas** e **TextBlob**, il sistema raccoglie e pre-processa i dati, classifica i tweet come positivi, negativi o neutri e analizza l'andamento giornaliero del sentiment.
+Questo progetto mira a comprendere il consenso pubblico riguardo al Bitcoin attraverso l'analisi dei social media. Sono stati raccolti milioni di tweet contenenti riferimenti al Bitcoin e analizzati con tecniche avanzate di NLP e Big Data per estrarre insight utili.  
 
-Obiettivi principali:
-- Identificare le tendenze del sentiment nel tempo.
-- Esaminare la relazione tra sentiment e valore di mercato del Bitcoin (BTC/USD).
-- Analizzare le interazioni degli utenti con tweet positivi e negativi.
+L'obiettivo principale era determinare il sentiment espresso nei tweet e tracciare la sua evoluzione nel tempo. Inoltre, sono state investigate correlazioni tra il sentiment e le fluttuazioni del prezzo del Bitcoin.  
 
-L'analisi ha mostrato come i tweet negativi ricevano più risposte rispetto a quelli positivi e ha evidenziato possibili correlazioni tra sentiment e fluttuazioni del prezzo del Bitcoin.
+## 🛠️ Tecnologie utilizzate  
+
+- **Linguaggio di programmazione:** Python  
+- **Librerie principali:** Pandas, TextBlob, Tweepy, Matplotlib  
+- **Ambiente di sviluppo:** Jupyter Notebook  
+
+## 📈 Risultati ottenuti  
+
+- Il sentiment varia significativamente nel tempo, con picchi legati a eventi di mercato.  
+- I tweet negativi ricevono mediamente più interazioni rispetto a quelli positivi.  
+- Sono state individuate correlazioni tra sentiment e variazioni del prezzo del Bitcoin, ma senza nessi causali diretti.  
 
 ---
 
-# Bitcoin Sentiment Analysis on Twitter
+# Sentiment Analysis of Bitcoin in Social Media  
 
-## 📌 Short Description
+## 📌 Project Description  
 
-This project analyzes the sentiment of tweets about Bitcoin to better understand public opinion on cryptocurrencies. Using **Python**, **Pandas**, and **TextBlob**, the system collects and processes data, classifies tweets as positive, negative, or neutral, and tracks daily sentiment trends.
+This project aims to understand public opinion on Bitcoin by analyzing social media data. Millions of tweets mentioning Bitcoin were collected and analyzed using advanced NLP and Big Data techniques to extract valuable insights.  
 
-Main goals:
-- Identify sentiment trends over time.
-- Examine the relationship between sentiment and Bitcoin market value (BTC/USD).
-- Analyze user engagement with positive and negative tweets.
+The primary objective was to determine the sentiment expressed in tweets and track its evolution over time. Additionally, correlations between sentiment and Bitcoin price fluctuations were investigated.  
 
-The analysis revealed that negative tweets tend to receive more replies than positive ones and highlighted possible correlations between sentiment and Bitcoin price fluctuations.
+## 🛠️ Technologies Used  
+
+- **Programming Language:** Python  
+- **Main Libraries:** Pandas, TextBlob, Tweepy, Matplotlib  
+- **Development Environment:** Jupyter Notebook  
+
+## 📈 Results Achieved  
+
+- Sentiment fluctuates significantly over time, with peaks linked to market events.  
+- Negative tweets tend to receive more engagement than positive ones.  
+- Correlations between sentiment and Bitcoin price variations were identified, though no direct causal link was found.  
